@@ -1,4 +1,13 @@
-# Hi there 👋
+# Hi there, I'm Yuning👋
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Mathematica-informational?style=flat&logo=wolframmathematica&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ```python
 #!/usr/bin/python
@@ -13,37 +22,35 @@ class QuantumPhysicist:
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
-        print("Hello, I cast quantum spells!")
+        print("Hello, I program mathematics and quantum physics!")
 
 me = QuantumPhysicist()
 me.say_hi()
 ```
 
-## 📝 Blogs
+I am Ph.D. student working in the area of quantum dynamics and quantum computing. I write numerical algorithms in Julia and Python to emulate the evolution of quantum systems. 
+In my leisure time, I loving programming and solving mathematics puzzles.  
 
-## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+$\Huge {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle,\quad S(\rho )= -\mathrm {tr} (\rho \ \log _{2}\ \rho )$
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EigenSolver&layout=donut&theme=nord&hide=jupyter%20notebook,glsl,tex)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EigenSolver&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EigenSolver&layout=compact&hide=jupyter%20notebook,glsl,tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuantumBFS&repo=Yao.jl)](https://github.com/QuantumBFS/Yao.jl)
 
 
-<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eigensolver&show_icons=true&theme=nord&rank_icon=percentile)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EigenSolver&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 **EigenSolver/EIgenSolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
