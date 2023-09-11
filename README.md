@@ -29,7 +29,7 @@ me.say_hi()
 ```
 
 I am a Ph.D. student working in the area of quantum dynamics and quantum computing. 
-In my leisure time, I loving programming and solving mathematics puzzles.  
+In my leisure time, I loving programming and solving mathematical puzzles.  
 
 $\Huge {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle,\quad S(\rho )= -\mathrm {tr} (\rho \ \log _{2}\ \rho )$
 
