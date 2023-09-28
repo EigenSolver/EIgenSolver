@@ -1,14 +1,16 @@
 # Hi there, I'm Yuning👋
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Mathematica-informational?style=flat&logo=wolframmathematica&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
+![](https://img.shields.io/badge/Julia--informational?style=flat&logo=julia&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Python--informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VS_Code--informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Jupyter--informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/PyCharm--informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Git--informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Docker--informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Bash--informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OpenAI--informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Mathematica--informational?style=flat&logo=wolframmathematica&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/MacOS--informational?style=flat&logo=MacOS&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Manjaro--informational?style=flat&logo=manjaro&logoColor=white&color=6aa6f8)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -28,8 +30,8 @@ me = QuantumPhysicist()
 me.say_hi()
 ```
 
-I am a Ph.D. student working in the area of quantum dynamics and quantum computing. 
-In my leisure time, I loving programming and solving mathematical puzzles.  
+I am a Ph.D. student working in the area of quantum information and stochastic quantum dynamics. I develop highly efficient numerics in Julia to simulate quantum systems. 
+In my leisure time, I loving programming and solving mathematical puzzles. Currently I am attracted by the LLM based automatous agent.
 
 $\Huge {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle,\quad S(\rho )= -\mathrm {tr} (\rho \ \log _{2}\ \rho )$
 
