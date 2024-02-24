@@ -1,6 +1,7 @@
 # Hi there, I'm Yuning👋
 ![](https://img.shields.io/badge/Julia--informational?style=flat&logo=julia&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Python--informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Rust--informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/VS_Code--informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Jupyter--informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/PyCharm--informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
@@ -21,6 +22,7 @@ class QuantumPhysicist:
     def __init__(self):
         self.name = "Yu-Ning Zhang"
         self.role = "Quantum Physicist"
+        self.hobbies = ["Physics", "Mathematics", "Coding", "Gaming"]
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
@@ -31,7 +33,7 @@ me.say_hi()
 ```
 
 I am a Ph.D. student working in the area of quantum information and stochastic quantum dynamics. I develop highly efficient numerics in Julia to simulate quantum systems. 
-In my leisure time, I loving programming and solving mathematical puzzles. Currently I am attracted by the LLM based automatous agent.
+In my leisure time, I love programming and solving mathematical puzzles. Currently, I am interested in the LLM-based automatous agent.
 
 $\Huge {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle,\quad S(\rho )= -\mathrm {tr} (\rho \ \log _{2}\ \rho )$
 
