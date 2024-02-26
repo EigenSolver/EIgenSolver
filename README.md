@@ -33,7 +33,8 @@ me.say_hi()
 ```
 
 I am a Ph.D. student working in the area of quantum information and stochastic quantum dynamics. I develop highly efficient numerics in Julia to simulate quantum systems. 
-In my leisure time, I love programming and solving mathematical puzzles. I have a broad interest in trending technologies, such as the LLM-based autonomous agent or decentralized network in Web3.
+
+In my leisure time, I love programming and solving mathematical puzzles. With a broad interest in trending technologies, such as the LLM-based autonomous agent or decentralized network in Web3.
 
 $\Huge {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle,\quad S(\rho )= -\mathrm {tr} (\rho \ \log _{2}\ \rho )$
 
