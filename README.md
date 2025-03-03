@@ -29,7 +29,7 @@ me = QuantumPhysicist()
 me.say_hi()
 ```
 
-I am a Ph.D. student working in the area of quantum information and stochastic quantum dynamics. I develop highly efficient numerics in Julia to simulate quantum systems. In my leisure time, I love programming and solving mathematical puzzles. 
+I am a Ph.D. student working in the area of quantum information. I develop highly efficient numerics in Julia to simulate open quantum systems. In my leisure time, I love programming and solving mathematical puzzles. 
 
 Aside from my research, I also have a broad curiosity about trending technologies such as the LLM-based autonomous agent or decentralized networks of Web 3.0.
 
