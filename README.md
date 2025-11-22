@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/Git--informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Docker--informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Bash--informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OpenAI--informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Mathematica--informational?style=flat&logo=wolframmathematica&logoColor=white&color=6aa6f8)
 ```python
 #!/usr/bin/python
